@@ -73,9 +73,6 @@ class EmojiInput extends Component {
 
     return (
       <div className={`ei-container ${this.props.className || ''}`}>
-      hello
-      {this.state.showSuggestions}
-      {this.state.query}
         <TextComponent
           className="ei-text-component"
           rows={this.props.rows}
