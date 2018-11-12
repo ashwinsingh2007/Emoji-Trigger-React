@@ -2,6 +2,10 @@
 
 This project is extension of Input Trigger React.
 
+## Demo
+
+https://ashwinsingh2007.github.io/Emoji-Trigger-React/index.html
+
 ## Getting Started
 
 This project uses [Yarn](https://yarnpkg.com/) for dependency management and [React Storybook](https://getstorybook.io/) for development.
@@ -22,9 +26,6 @@ $ npm run check # Make sure tests and lints are passing
 $ npm run build
 ```
 
-Or simply use the following command which combines the 3 commands above:
 
-```
-$ npm run prepublish
-```
+
 
